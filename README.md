@@ -8,7 +8,6 @@ I haven't tried cloning the project and verifying these insctructions yet, pleas
   - STM32F746 Discovery board
   - [STM32CubeF7](http://www.st.com/en/embedded-software/stm32cubef7.html)
   - [System Workbench for STM32](http://www.st.com/en/development-tools/sw4stm32.html)
-  
 2. Import project in System Workbench
 3. Build default target
 4. Upload firmware through debugging session
