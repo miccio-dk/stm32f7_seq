@@ -1,12 +1,19 @@
 # stm32f7_seq
 Attempt to make a sequencer/drum machine/synth with the STM32F746 Discovery board.
 
-## Build
-1. Import project in 
+## Setup
+I haven't tried cloning the project and verifying these insctructions yet, please submit an issue if something doesn't work.
+1. Prerequisites:
+  - STM32F746 Discovery board
+  - [STM32CubeF7](http://www.st.com/en/embedded-software/stm32cubef7.html)
+  - [System Workbench for STM32](http://www.st.com/en/development-tools/sw4stm32.html)
+2. Import project in System Workbench
+3. Build default target
+4. Upload firmware through debugging session
 
 ## Usage
 
-TODO: Write usage instructions
+
 
 ## Contributing
 
