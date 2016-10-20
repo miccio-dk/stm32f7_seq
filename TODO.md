@@ -14,8 +14,13 @@
  - Change event system: callback for value changed
  - Use `LINE(x)` instead of calculating text position
  
- ## VIEW
+## VIEW
  - Implement necessary views:
-   - Title screen
-   - Drum sequencer
-   - T
+  - Title screen
+  - Main screen (tracks, mixer, etc)
+  - Beat sequencer
+  - Drum machine/setup
+  - Synth setup
+
+## AUDIO
+ - Figuring out what to do
